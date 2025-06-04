@@ -1,0 +1,22 @@
+# Cache files for the editor to use
+DerivedDataCache/*
+
+# Binaries
+Binaries/*
+Build/*
+
+# macOS
+.DS_Store
+
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
